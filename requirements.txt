@@ -1,0 +1,5 @@
+chaostoolkit-lib>=0.17.0
+frida
+hexdump
+logzero
+psutil
